@@ -50,4 +50,4 @@ workflows:
           app_store_connect:
             auth: integration
             submit_to_app_store: true
-            copyright: 2024 Tales Of Sweet Fortune Quest
+            copyright: 2024 Tales of Sweet Fortune Quest
